@@ -1,8 +1,8 @@
 # Servidor-DHCP
 
 ## Interantes
-Juanmartin Betancur
-Miguel Correa
+Juanmartin Betancur \n
+Miguel Correa \n
 Juan Villa
 
 ## Presentación de clase
