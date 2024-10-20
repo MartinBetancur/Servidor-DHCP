@@ -1,4 +1,16 @@
 # Servidor-DHCP
+
+## Interantes
+Juanmartin Betancur
+Miguel Correa
+Juan Villa
+
+## Presentación de clase
+https://www.canva.com/design/DAGT95_10tk/NwN0_7Qpz_Z4Dc_xrzHaLA/edit?utm_content=DAGT95_10tk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+## ¿Donde ver el código?
+Rama master del repositorio
+
 ## 1. Introducción
 El objetivo de este proyecto es desarrollar las competencias necesarias en el diseño y desarrollo de aplicaciones concurrentes en red utilizando la API Sockets. En este caso, se implementa un servidor DHCP funcional en lenguaje C que permite la asignación dinámica de direcciones IP a clientes conectados a una red local o remota. El servidor maneja solicitudes de los clientes utilizando el protocolo DHCP, proporcionando parámetros esenciales como dirección IP, máscara de subred, puerta de enlace y servidor DNS.
 
